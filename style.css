@@ -3,13 +3,14 @@ html, body {
 }
 
 body {
-    font: 20px , 'Poppins', sans-serif;
+    font: 20px , 'Quicksand', sans-serif;
     line-height: 1.8;
     color: #f5f6f7;
 }
 
 p {
     font-size: 16px;
+    font-family: 'Comfortaa', sans-serif;
 }
 
 a {
@@ -35,7 +36,7 @@ a {
 }
 
 .bg-1 {
-    background-color: #d8dae0; /* White */
+    background-color: #f7edf2; /* White */
     color: #555555;
 }
 
