@@ -45,7 +45,7 @@ a {
 }
 
 .card {
-    color: #4e4187;
+    color: black;
     text-align: left;
 }
 
@@ -76,6 +76,7 @@ a {
     margin-bottom: 0;
     font-size: 12px;
     letter-spacing: 5px;
+    color: #5d5179;
 }
 
 .navbar-nav li a:hover {
