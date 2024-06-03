@@ -22,8 +22,9 @@ h1 {
 }
 
 h2 {
-    color: black !important;
-    font-family: Montserrat !important;
+    color: black;
+    font-family: Quicksand;
+    font-size: 35px;
 }
 
 #logo, .project-img {
