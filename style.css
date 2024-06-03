@@ -18,11 +18,12 @@ a {
 
 h1 {
     color: black;
+    font-family: Comfortaa;
 }
 
 h2 {
     color: black !important;
-    font-family: "Comfortaa", !important;
+    font-family: Montserrat !important;
 }
 
 #logo, .project-img {
