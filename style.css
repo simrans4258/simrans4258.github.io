@@ -22,10 +22,9 @@ h1 {
     font-family: Comfortaa;
 }
 
-h2 {
+h2, h3 {
     color: black;
     font-family: Quicksand;
-    font-size: 35px;
 }
 
 #logo, .project-img {
