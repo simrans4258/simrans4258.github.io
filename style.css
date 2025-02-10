@@ -58,6 +58,7 @@ h2, h3 {
 .card {
     color: black;
     text-align: left;
+    margin-bottom: 10px;
 }
 
 .card-title {
