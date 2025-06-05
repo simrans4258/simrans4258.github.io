@@ -14,7 +14,7 @@ p {
 }
 
 a {
-    color: #2e72a1;
+    color: #570640;
 }
 
 h1 {
@@ -102,4 +102,8 @@ h2, h3 {
 
 .navbar-nav li a:hover {
     color: #4f2ea1 !important;
+}
+
+a:hover {
+    color: #570640 !important;
 }
